@@ -22,7 +22,7 @@ I love writing **strongly typed, robust applications** in **TypeScript (React.js
 
 ## 📂 Featured Projects  
 
-- 🤟 [**TrioSigno**](https://github.com/EIP-TEK89/trio-signo-fullstack) – TrioSigno is an interactive platform dedicated to learning French Sign Language (LSF)
+- 🤟 [**TrioSigno**](https://github.com/EIP-TEK89/trio-signo-fullstack) – TrioSigno is an interactive platform dedicated to learning French Sign Language (LSF).
 - 🌐 [**Area**](https://github.com/LebibYann/Area) – Area aims to build a platform that allows users to connect different services and automate tasks between them similar to IFTTT or Zapier.
 
 ---
