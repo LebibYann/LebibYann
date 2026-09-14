@@ -1,7 +1,12 @@
 # 👋 Hi, I'm Yann  
 
-🎯 Fullstack Engineer passionate about web development and clean, maintainable code.  
-I love writing **strongly typed, robust applications** in **TypeScript (React.js , Node.js)** and **Python**.  
+Fullstack developer, Epitech Master's, based in Paris.
+I work mostly in TypeScript across React and NestJS, with some Python.
+Currently looking for my first full-time role.
+
+I spent my last internship at Polycea on backend infrastructure:
+observability with pino and Grafana, a shared Redis cache across pods,
+and payment verification flows built on Twilio Lookup.
 
 ---
 
