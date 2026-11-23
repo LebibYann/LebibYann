@@ -14,6 +14,7 @@ and payment verification flows built on Twilio Lookup.
 <code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript"></code>
 <code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python"></code>
+<code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="pytorch"></code>
 <code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodejs"></code>
 <code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="nestjs"></code>
 <code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="gcp"></code>
@@ -27,8 +28,11 @@ and payment verification flows built on Twilio Lookup.
 
 ## 📂 Featured Projects  
 
-- 🤟 [**TrioSigno**](https://github.com/EIP-TEK89/trio-signo-fullstack) – TrioSigno is an interactive platform dedicated to learning French Sign Language (LSF).
-- 🌐 [**Area**](https://github.com/LebibYann/Area) – Area aims to build a platform that allows users to connect different services and automate tasks between them similar to IFTTT or Zapier.
+- 🤟 [**TrioSigno**](https://github.com/EIP-TEK89/trio-signo-fullstack) – Epitech final-year project: learn French Sign Language with real-time AI sign recognition, on web and mobile. I built most of the [mobile app](https://github.com/LebibYann/TrioSignoMobile) (React Native, Expo).
+- ☁️ [**InfraAsCode**](https://github.com/LebibYann/InfraAsCode) – Terraform on GCP: private GKE cluster, Cloud SQL, self-hosted GitHub Actions runners and CI/CD for a NestJS app.
+- 🌐 [**Area**](https://github.com/LebibYann/Area) – IFTTT/Zapier-style automation platform (NestJS, React, Flutter). I built most of the web client.
+- 🎨 [**PixelHub**](https://github.com/lenny-vigeon-dev/cervelet) – Collaborative pixel canvas inspired by r/place, serverless on Google Cloud Run with Next.js.
+- 🧠 [**deep-ml**](https://github.com/LebibYann/deep-ml) – Machine learning fundamentals implemented by hand in Python.
 
 ---
 
